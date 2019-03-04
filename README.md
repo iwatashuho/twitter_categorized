@@ -1,0 +1,2 @@
+# twitter_categorized
+ツイート内容を分類するためのサンプル
